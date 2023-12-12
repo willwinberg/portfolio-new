@@ -16,15 +16,20 @@
   },
   "dependencies": {
     "gatsby": "^5.12.12",
+    "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-image": "^3.12.3",
     "gatsby-plugin-sass": "^6.12.3",
     "gatsby-plugin-sharp": "^5.12.3",
     "gatsby-plugin-sitemap": "^6.12.3",
+    "gatsby-plugin-typography": "^5.12.0",
     "gatsby-source-filesystem": "^5.12.1",
     "gatsby-transformer-sharp": "^5.12.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.12.0",
-    "sass": "^1.69.5"
+    "react-typography": "^0.16.23",
+    "sass": "^1.69.5",
+    "typography": "^0.16.24",
+    "typography-theme-bootstrap": "^0.16.19"
   }
 }
