@@ -1,18 +1,18 @@
 import React from "react";
 import Project from "./Project";
 
-import CloudManager from "../assets/images/portfolio/cloudmanager.png";
-import CloudManagerModal from "../assets/images/portfolio/modals/m-cloudmanager.png";
-import Streamvisor from "../assets/images/portfolio/streamvisor.jpg";
-import StreamvisorModal from "../assets/images/portfolio/modals/m-streamvisor.jpg";
-import Snio from "../assets/images/portfolio/snio.png";
-import SnioModal from "../assets/images/portfolio/modals/m-snio.png";
-import BlueTube from "../assets/images/portfolio/bluetube.jpg";
-import BlueTubeModal from "../assets/images/portfolio/modals/m-bluetube.jpg";
-import Gogrello from "../assets/images/portfolio/gogrello.jpg";
-import GogrelloModal from "../assets/images/portfolio/modals/m-gogrello.jpg";
-import PassiveCrypto from "../assets/images/portfolio/passivecrypto.jpg";
-import PassiveCryptoModal from "../assets/images/portfolio/modals/m-passivecrypto.jpg";
+import CloudManager from "../images/portfolio/cloudmanager.png";
+import CloudManagerModal from "../images/portfolio/modals/m-cloudmanager.png";
+import Streamvisor from "../images/portfolio/streamvisor.jpg";
+import StreamvisorModal from "../images/portfolio/modals/m-streamvisor.jpg";
+import Snio from "../images/portfolio/snio.png";
+import SnioModal from "../images/portfolio/modals/m-snio.png";
+import BlueTube from "../images/portfolio/bluetube.jpg";
+import BlueTubeModal from "../images/portfolio/modals/m-bluetube.jpg";
+import Gogrello from "../images/portfolio/gogrello.jpg";
+import GogrelloModal from "../images/portfolio/modals/m-gogrello.jpg";
+import PassiveCrypto from "../images/portfolio/passivecrypto.jpg";
+import PassiveCryptoModal from "../images/portfolio/modals/m-passivecrypto.jpg";
 
 const Portfolio = () => {
   return (

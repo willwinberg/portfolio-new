@@ -6,7 +6,7 @@ import {
   // FaFacebook,
   // FaInstagram,
 
-} from "react-icons/lib/fa";
+} from "react-icons/fa";
 // https://gorangajic.github.io/react-icons/fa.html
 
 const SocialLinks = () => (

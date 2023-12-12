@@ -1,7 +1,6 @@
 import React from "react";
-import ReactDOM from "react-dom";
 
-import { FaPlus, FaTag } from "react-icons/lib/fa";
+import { FaPlus, FaTag } from "react-icons/fa";
 
 class Project extends React.Component {
 
