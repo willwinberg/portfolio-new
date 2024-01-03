@@ -25,12 +25,12 @@ const Portfolio = () => {
             className="bgrid-quarters s-bgrid-thirds cf"
           >
               <Project
-              route={"#modal-07"}
+              route={"#modal-06"}
               pic={Streamvisor}
               title={"Streamvisor"}
               description={"A browser app for managing Pulsar instances."}
               modal={StreamvisorModal}
-              id={"modal-07"}
+              id={"modal-06"}
               synopsis={"A Pulsar management solution that helps businesses capture, observe, administer, and secure data. The platform enables administrators to gain insight into event-driven architecture, explore live data, monitor key metrics, and access multiple environments."}
               tech={"Vue 3, Pinia, Vuetify"}
               url={"https://docs.streamvisor.com/installation/"}
@@ -69,7 +69,7 @@ const Portfolio = () => {
                 id={"modal-01"}
                 synopsis={"This is the startup I work at as a full-stack developer mainly with Vue and Laravel. The missions is to create an easy to understand service for people who want to see their crypto grow faster without have to be an expert in the field of finances or blockchain. I built most of the Vue front-end stuff but have lately been working more with the Laravel backend. Let me know if you'd like to see some code samples as it's all in a private repo."}
                 tech={"Laravel, Vue, SQL, Many crypto exchange APIs, Paypal, tailwind/scss,"}
-                url={"http://passivecrypto.io"}
+                url={"https://www.youtube.com/watch?v=PNtmlFclpM4"}
                 git={"https://github.com/willwinberg/"}
             />
             <Project
@@ -93,7 +93,7 @@ const Portfolio = () => {
               id={"modal-03"}
               synopsis={"This is a cool YouTube clone I made to help me learn PHP. It handles video uploads as well as avatar photo uploads. Also has functionality for users to subscribe to channels, like or dislike videos, leave comments, like or dislike comments and search for and sort videos. Unfortunately, since I don't have the super cool job yet that you're looking to fill, you should stick to small file uploads if you want to test it out. It was pretty amazing moving on to Laravel after building this from scratch.. Haha"}
               tech={"Vanilla PHP, PDO, ffmpeg, Ajax, Jquery, Bootstrap"}
-              url={"http://www.bluetube.site"}
+              url={"http://34.174.208.65"}
               git={"https://github.com/willwinberg/bluetube-vanilla"}
             />
           </div>
